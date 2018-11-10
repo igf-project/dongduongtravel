@@ -1,0 +1,33 @@
+RewriteEngine On
+RewriteRule ^/?$ 								        index.php
+RewriteRule ^trang-chu/?$ 								index.php
+RewriteRule ^gioi-thieu/?$ 								index.php?com=about
+RewriteRule ^admincp/?$ 								admincp/index.php
+RewriteRule ^tin-tuc/?$ 								index.php?com=contents
+RewriteRule ^tuyen-dung/?$ 								index.php?com=recruitment
+RewriteRule ^lien-he/?$ 								index.php?com=contact
+RewriteRule ^gioi-thieu/?$ 	                            index.php?com=about
+RewriteRule ^tim-kiem/?$ 	                            index.php?com=search
+RewriteRule ^gio-hang/?$ 								index.php?com=product&viewtype=cart
+RewriteRule ^thanh-toan/?$ 								index.php?com=product&viewtype=checkout
+RewriteRule ^doi-mat-khau/?$ 						    index.php?com=member&viewtype=changepass
+RewriteRule ^san-pham/?$ 			                    index.php?com=product
+RewriteRule ^dang-nhap/?$ 			                    index.php?com=member&viewtype=login
+RewriteRule ^dang-ky/?$ 			                    index.php?com=member&viewtype=register
+RewriteRule ^thong-tin-ca-nhan/?$ 						index.php?com=member&viewtype=profiles
+RewriteRule ^huong-dan-don-thuoc/?$ 			index.php?com=member&viewtype=prescription_instructions
+RewriteRule ^ho-so-y-te-ca-nhan/?$ 						index.php?com=member&viewtype=medical_profile
+RewriteRule ^an-toan-dung-thuoc/?$ 						index.php?com=member&viewtype=drug_counseling
+RewriteRule ^tim-phong-kham/?$ 							index.php?com=member&viewtype=find_clinics
+RewriteRule ^([0-9a-zA-Z\-]+).html?$ 		        	index.php?com=contents&viewtype=detail&code=$1
+RewriteRule ^album/([0-9a-zA-Z\-]+).html?$ 		    	index.php?com=gallery&viewtype=detail&code=$1
+RewriteRule ^([0-9a-zA-Z\-]+)/?$ 		                index.php?com=contents&viewtype=block&code=$1
+RewriteRule ^tuyen-dung/([0-9a-zA-Z\-]+).html?$ 		 index.php?com=recruitment&viewtype=detail&code=$1
+RewriteRule ^tuyen-dung/([0-9a-zA-Z\-]+)/?$ 		    index.php?com=recruitment&viewtype=list&code=$1
+RewriteRule ^([0-9a-zA-Z\-]+).html?$ 		        	index.php?com=product&viewtype=detail&code=$1
+
+
+
+
+
+

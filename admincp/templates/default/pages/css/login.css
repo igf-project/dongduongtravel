@@ -1,0 +1,28 @@
+/***
+Login page
+***/
+/* bg color */
+body.login{
+    background-color: #6F6D6D;
+}
+#frm_login{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 420px;
+    overflow: hidden;
+    margin:60px auto;
+    padding-bottom: 20px;
+
+}
+.header-login{
+    background-color: #fafafa;
+    padding: 20px 25px 12px 25px;
+}
+.header-login h3{
+    margin: 0px;
+    padding-bottom: 10px;
+}
+#frm_login .content{
+    padding: 10px 25px
+}

@@ -1,0 +1,1252 @@
+@media (max-width: 1024px) {
+	.menuOpened {
+		background: #fff;
+	}
+
+	.header .mobi-toggler {
+		display: block;
+	}
+
+	.img-height img{height: 35px;}
+
+	.header-mobi-ext .header-navigation {
+		float: none;
+		padding: 20px 0;
+		display: none;
+	}
+	.header-mobi-ext .header-navigation li {
+		float: none;
+		padding: 0;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.header-mobi-ext .header-navigation li:first-child a {
+		border-top: 1px solid #efefef;
+	}
+	.header-mobi-ext .header-navigation a {
+		border-bottom: 1px solid #efefef;
+		padding: 10px 0 10px 10px;
+		position: relative;
+		color: #666;
+	}
+	.header-mobi-ext .header-navigation a:hover,
+	.header-mobi-ext .header-navigation li.current a {
+		border-bottom: 1px solid #efefef;
+		background: #dd4632;
+		color: #fff;
+	}
+
+	.checkout-block .row div {
+		width: 100%;
+		text-align: center !important;
+	}
+	.checkout-block h2 {
+		text-align: center;
+	}
+	.checkout-block .text-right {
+		padding-top: 10px;
+	}
+
+	.slider-item-1 .promo-like i {
+	  font-size: 70px;
+	}
+	.slider-item-1 .promo-like-text {
+	  font-size: 18px;
+	  padding: 22px 25px 17px;
+	}
+	.slider-item-1 .promo-like-text h2 {
+	  font-size: 28px;
+	  margin: 0 0 3px;
+	}
+}
+@media (min-width: 1025px) {
+	.header .header-navigation {
+		display: block !important;
+	}
+	.team-block .img-responsive {
+		display: inline-block;
+	}
+}
+@media (max-width: 992px) {
+	.facts-block h2 {
+	  margin-bottom: 60px;
+	}
+	.facts-block .item {
+	  font-size: 18px;
+	  width: 138px;
+	  height: 138px;
+	  text-transform: none;
+	}
+	.facts-block .item strong {
+	  font-size: 40px;
+	}
+
+	.ab-cirle-blue {
+	  bottom: 2px;
+	  left: 1%;
+	}
+	.ab-cirle-red {
+	  bottom: 49%;
+	  left: 37%;
+	}
+	.ab-cirle-green {
+	  bottom: 34%;
+	  right: 3%;
+	}
+
+	.team-block .item {
+	  margin-bottom: 30px;
+	}
+	.team-block .img-responsive {
+	  width: 100%;
+	}
+}
+@media (min-width: 760px) {
+	.slider-item-1 .large_bold_white {
+	  letter-spacing: 2px !important;
+	}
+}
+@media (max-width: 768px) {
+	.services-block {
+	  padding-bottom: 20px;
+	}
+	.services-block .item {
+	  border: none;
+	  margin-bottom: 50px;
+	}
+
+	.about-block h4 {
+	  margin-bottom: 33px;
+	}
+	.ab-cirlce {
+	  width: 100px;
+	  height: 100px;
+	  padding-top: 15px;
+	}
+	.ab-cirlce i {
+	  font-size: 33px;
+	  line-height: 33px;
+	}
+	.ab-cirlce strong {
+	  padding-top: 5px;
+	  font-size: 16px;
+	  line-height: 1;
+	}
+	.ab-cirle-blue {
+	  bottom: 2px;
+	  left: 1%;
+	}
+	.ab-cirle-red {
+	  bottom: 52%;
+	  left: 37%;
+	}
+	.ab-cirle-green {
+	  bottom: 34%;
+	  right: 6%;
+	}
+
+	.slider-item-1 .promo-like-text {
+		margin-top: 30px;
+	}
+	.slider-item-1 .promo-like {
+		padding: 29px 22px 26px 21px;
+	}
+	.slider-item-1 .promo-like i {
+	  font-size: 49px;
+	}
+	.slider-item-1 .promo-like-text {
+	  font: 400 14px "Open Sans", Arial, sans-serif;
+	  padding: 22px 25px 17px;
+	}
+	.slider-item-1 .promo-like-text h2 {
+	  font: 400 23px/23px "PT Sans Narrow", Arial, sans-serif;
+	}
+	
+}
+@media (max-width: 767px) {
+	
+	
+	.choose-us-block .img-responsive {
+	  margin: 0 auto;
+	}
+
+	/*.facts-block {
+	  min-height: 470px;
+	}*/
+	.facts-block .item {
+	  margin-bottom: 30px;
+	}
+
+	.footer .pull-right {
+	  float: left !important;
+	  padding-top: 10px;
+	  padding-bottom: 11px;
+	}
+	.footer .social-icons li {
+	  float: left;
+	  margin: 0 5px 0 0;
+	}
+}
+@media (max-width: 600px) {
+	.slider-item-1 .promo-like-text {
+		margin-top: 30px;
+	}
+	.slider-item-1 .promo-like {
+		padding: 27px 22px 28px;
+		top: -18px;
+	}
+	.slider-item-1 .promo-like i {
+	  font-size: 23px;
+	}
+	.slider-item-1 .promo-like-text {
+	  font-size: 13px;
+	  padding: 10px;
+	}
+	.slider-item-1 .promo-like-text h2 {
+	  font: 400 18px/1 "Open Sans", Arial, sans-serif;
+	  margin-bottom: 5px;
+	}
+}
+@media (max-width: 480px) {
+	.ab-cirlce {
+	  z-index: 3;
+	}
+	.ab-cirle-red {
+	  bottom: 36px;
+	}
+
+	.slider-item-1 .promo-like {
+		display: none;
+	}
+}
+@media (max-width: 400px) {
+	.tb-socio .fa {
+	  margin-bottom: 20px;
+	}
+
+	.slider-item-1 .promo-like-text {
+	  white-space: normal;
+	  margin: 40px 15px 0;
+	}
+	.swiper-container{
+		height: 300px;
+	}
+	
+	
+}
+@media (max-width: 320px) {
+	.tb-socio .fa {
+	  margin-bottom: 20px;
+	}
+
+	.ab-cirle-blue {
+	  left: 0;
+	}
+	.ab-cirle-red {
+	  left: 37%;
+	}
+	.ab-cirle-green {
+	  right: 0;
+	}
+	
+
+}
+
+
+
+
+
+@media (max-width: 767px){  /* Mobile */
+	.m-clear{
+		clear: both;
+	}
+    .box-find{
+        width: 100%;
+    }
+    .box-list .asean{
+        margin: 0px;
+    }
+    .box-list .page-content{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .pagination{
+        margin: 10px 0px !important;
+    }
+    .box-find .box-center{
+        text-align: center;
+    }
+	.tour .price { 
+		font-size:16px; 
+		margin:5px 0;
+	}
+	.tour-content .intro,
+	.tour-content .box{
+		display: none;
+	}
+	.tour .tour-content { 
+		padding:10px 10px 10px;
+	}
+	.box-service  .content .tour {margin: 45px 0px 25px 0px;}
+	.special-tour{
+		padding-bottom: 25px;
+	}
+	.container .content{
+		margin-left: -4px;
+		margin-right: -4px;
+	}
+	#body .container { 
+		padding-left: 10px !important; 
+		padding-right: 10px !important;
+	}
+	.box-tour{
+		position: relative;
+	}
+	.box-idea .box-tour{
+		margin-top: 10px;
+	}
+    .hot-tour{
+        margin-top: 15px !important;
+    }
+    .community,
+    .asean,
+    .gift{
+        margin-top: 25px !important;
+    }
+	.hot-tour h2.title,
+	.community h2.title,
+	.asean h2.title,
+	.gift h2.title{
+		position: absolute;
+		top: 14px;
+		left: 10px;
+		margin: 0px;
+		padding: 0px;
+	}
+	.box-idea h2.title{
+		margin-bottom: 20px;
+	}
+	.box-idea{
+		margin: 0px 0px 30px 0px;
+	}
+    .header{
+        display: none;
+    }
+    .footer {
+        margin-top: 25px;
+    }
+    .where-go{
+        margin-bottom: -25px;
+    }
+    .m-nav{
+        height: 50px;
+        background-color: #fff;
+
+    }
+    .m-nav .logo{
+        float: left;
+        margin-left: 12px;
+        margin-top: 3px;
+
+    }
+    .m-nav .icon-menu{
+        background: url(http://dongduongtravel.vn/templates/web/img/xicon-menu.png.pagespeed.ic.KwhqBdTWWX.png) no-repeat;
+        width: 26px;
+        height: 21px;
+        margin-top: 16px;
+        margin-right: 15px;
+        float: right;
+        background-size: 22px;
+    }
+    .box-category .item{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-bottom: 12px;
+    }
+    .box-category li{
+        list-style: none;
+    }
+    .box-category li a{
+        display: block;
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+    .box-category .item{
+        border-bottom: 1px solid #ebebeb;
+    }
+    .box-category .title{
+        color: #357b07;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .footer .col-item{
+        margin-bottom: 12px;
+    }
+	.page-content{
+		/* padding-left: 10px;
+		padding-right: 10px; */
+		margin-top: 25px;
+		margin-bottom: 15px;
+	}
+	.info-location{
+		margin-bottom: 28px;
+	}
+	.tour-location{
+		margin-top: 30px;
+	}
+	.box-discovery{
+		margin-top: 30px;
+		padding-bottom: 30px;
+	}
+	.box-discovery .item{
+		margin-bottom: 15px;
+	}
+    .news-style .thumb{
+        width: 120px;
+		height: 90px;
+        float: left;
+        margin-right: 15px;
+    }
+	.news-style .author,
+	.news-style .intro{
+		display: none;
+	}
+    .news-style .col-item{
+        padding-right: 12px;
+    }
+    .service-hotel .col-item {
+        margin-bottom: 15px;
+        border-bottom: 1px solid #f9f9f9;
+        padding-bottom: 10px;
+    }
+    .news-style h4{
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    #slide-main .swiper-pagination{
+        bottom: 10px;
+    }
+    .asean .position span{
+        font-size: 18px;
+    }
+    .asean .position span.country{
+        font-size: 14px;
+    }
+    .asean .position {
+
+        margin-bottom: -25px;
+    }
+    .box-service .content a {
+        font-size: 15px;
+    }
+    .m-nav .m-logo{
+        width: 65px;
+        float: left;
+        display: block;
+        margin-left: 15px;
+    }
+    /*Font Tiêu đề box*/
+    .box-tour>h2.title{
+        font-size:16px;
+    }
+	.list-item .row{
+		margin-left: -6px;
+		margin-right: -6px;
+		clear: both;
+	}
+	.where-go form .btn{
+		margin: auto;
+		display: block;
+		text-align: center
+	}
+	.box-travel .his{
+		margin-left: 20px
+	}
+	.tour-location .readmore,
+	.list-item .readmore{
+		margin-top: 10px;
+	}
+	.box-main {
+		padding-bottom: 20px;
+	}
+	.news-style .col-item{
+		margin-bottom: 12px;
+	}
+	.news-style .date{
+		padding-left: 15px;
+		color: #686868;
+		
+	}
+	.box-travel h3 {
+		font-size: 20px;
+		margin-top: 36px;
+	}
+    .info-tour .info-txt{
+        margin-top: 15px;
+    }
+    .info-tour .info-thumb img{
+        width: 100%
+    }
+    .time-price .column{
+        margin-bottom: 15px;
+    }
+
+
+    /*box lich trinh*/
+    .box-program{
+        padding-bottom: 10px;
+    }
+    .date-program{
+        text-align: center;
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+    .date-program ul{
+    }
+    .date-program li.small .date{
+        display: none;
+    }
+    .date-program li .date{
+        display: none;
+    }
+    .date-program li{
+        width: 42px;
+        height: 42px;
+        text-align: center;
+        border-radius: 21px;
+        text-transform: uppercase;
+        font-size: 13px;
+        color: #232323;
+        cursor: pointer;
+        background: rgba(255,255,255,0.6);
+        padding-top: 10px;
+        border: 1px solid #21a117;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+
+    .date-program .lage .number{
+        font-size: 14px;
+    }
+    .date-program li:hover,
+    .date-program li.active{
+        background-color: #21a117;
+        color: #fff;
+    }
+    .g-program{
+        margin-top: 15px;
+        height: 42px;
+    }
+    .g-program ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    .g-program li{
+        list-style: none;
+        float: left;
+        background-color: #fff;
+        width: 33.333%;
+        margin: 0px;
+        padding: 0px;
+    }
+    .g-program li:hover,
+    .g-program .active{
+        transition: opacity 2s;
+        -webkit-transition: opacity 2s;
+    }
+    .g-program .ic{
+        height: 50px;
+        padding-top: 15px;
+        display: block;
+        font-size: 13px;
+        overflow: hidden;
+        padding-left: 40px;
+        text-transform: uppercase;
+        font-weight: bold;
+
+    }
+    .g-program  .ic-1{
+        background: url("../img/icon-travel-m.png") no-repeat #fff;
+        background-position: 8px 13px;
+    }
+    .g-program .active .ic-1,
+    .g-program  .ic-1:hover{
+        background: url("../img/icon-travel-m.png") no-repeat #eee;
+        background-position: 8px -43px;
+    }
+
+    .g-program  .ic-3{
+        background: url("../img/icon-travel-m.png") no-repeat #fff;
+        background-position: 7px -108px;
+    }
+    .g-program .active .ic-3,
+    .g-program  .ic-3:hover{
+        background: url("../img/icon-travel-m.png") no-repeat #eee;
+        background-position: 7px -164px;
+    }
+    .g-program  .ic-5{
+        background: url("../img/icon-travel-m.png") no-repeat #fff;
+        background-position: 8px -231px;
+    }
+    .g-program .active .ic-5,
+    .g-program  .ic-5:hover{
+        background: url("../img/icon-travel-m.png") no-repeat #eee;
+        background-position: 8px -288px;
+    }
+    .g-program .active .ic,
+    .g-program .ic:hover,
+    .g-program li .ic{
+        background-size: 24px auto;
+        cursor: pointer;
+    }
+
+    .box-program .content{
+        padding: 20px 0px;
+        position: relative;
+        margin: 0px;
+    }
+    .box-program .content .item{
+        border-bottom: 1px solid #eee;
+        margin-bottom: 12px;
+        padding-bottom: 12px;
+        overflow: hidden;
+       /* background: rgba(255,255,255,0.9);*/
+        background-color: #fff;
+        padding: 5px 15px 10px 15px;
+        margin-bottom: 12px;
+    }
+
+    .box-program .content .item img.img-position{
+        width: 120px;
+        height: 90px;
+        float: left;
+        margin-right: 15px;
+    }
+    .label-day{
+        font-size: 18px;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+    /*end css lich trinh*/
+    .box-filter .btn-filter{
+        margin-top: 12px;
+    }
+    .box-filter .list-group .item{
+         padding: 3px 0px 5px;
+         float: left;
+         width: 50%;
+     }
+    /*.box-find .item{
+        width: 50%;
+        float: left;
+    }
+    .box-find .item select{
+        margin-left: 6px;
+        margin-right: 6px;
+    }*/
+
+
+    /*fix css clear list item*/
+    .box-filter .list-group .item:nth-child(2n),
+	.box .tour:nth-child(2n),
+    .list-item .tour:nth-child(2n),
+	.list-item .column:nth-child(2n){
+		clear: right;
+		
+	}
+    .box-filter .list-group .item:nth-child(2n+1),
+	.box .tour:nth-child(2n+1),
+    .list-item .tour:nth-child(2n+1),
+	.list-item .column:nth-child(2n+1){
+		clear: left;
+		
+	}
+	
+	
+}
+@media (min-width: 768px){
+	/*fix css clear list item*/
+	/* .list-item .column:nth-child(2n-2){
+		background-color: red;
+	} */
+    .news-style .item:nth-child(2n+1),
+	.hot-tour .tour:nth-child(4n+1),
+    .list-tour .tour:nth-child(4n+1),
+	.asean .tour:nth-child(3n+1){
+		clear: left;
+	}
+    .box-find .form-group{
+        margin-left: 20px;
+    }
+    .box-filter .box-content{
+        padding-right: 60px;
+    }
+    .box-filter .list-group .item{
+        padding: 3px 0px 5px;
+        float: left;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .box-filter .frm-content .btn-filter{
+        position: absolute;
+        top: 25px;
+        right: 20px;
+    }
+    .label-day{
+        display: none;
+    }
+    .footer{
+        margin-top: 60px;
+    }
+    .where-go{
+        margin-bottom: -60px;
+    }
+    .box-travel h3 {
+		margin-top: 22px;
+	}
+	.news-style .col-item{
+		margin-bottom: 30px;
+		padding-right: 15px;
+	}
+	.box-main {
+		padding-top: 10px;
+		padding-bottom: 30px;
+	}
+	.where-go form .btn {
+		margin-left: 5px;
+	}
+	.where-go .form-control {
+		
+		padding: 20px 10px;
+	}
+	.tour-location .readmore,
+	.list-item .readmore{
+		margin-top: 12px;
+	}
+	.list-item .row{
+		/*margin-left: -10px;
+		margin-right: -10px;*/
+		clear: both;
+	}
+	.list-item .column{
+		padding-left: 10px;
+		padding-right: 10px;
+		margin-bottom:20px;
+	
+	}
+	
+    .box-tour>h2.title{
+        font-size:18px;
+    }
+    .box-service .content a {
+        font-size: 18px;
+    }
+    .asean .position {
+        margin-bottom: -35px;
+    }
+    .asean .position span{
+        font-size: 24px;
+    }
+    .asean .position span.country{
+        font-size: 20px;
+    }
+    #slide-main .swiper-pagination{
+        bottom: 20px;
+    }
+    .news-style h4{
+        font-size: 18px;
+        margin-top: 15px;
+        padding: 0px;
+        margin-bottom: 5px;
+    }
+    .news-style .thumb{
+        width: 200px;
+        float: left;
+        margin-right: 15px;
+        height: 145px;
+    }
+    .service-hotel .box-img-service {
+         position: absolute;
+        top: 0;
+        right: 0;
+        height: 100%;
+        padding: 0px;
+    }
+	.box-travel h3{
+		text-align: center;
+	}
+	.name-location{
+		font-size: 24px;
+		display: block;
+		text-align: right;
+		clear: both;
+		margin-top: 12px;
+	}
+	.header .content{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	.page-content{
+		padding-left: 40px;
+		padding-right: 40px;
+		margin-top: 25px;
+		margin-bottom: 15px;
+	}
+	.info-member{
+		padding-top: 12px;
+		text-align: right;
+		padding-bottom: 5px;
+	}
+	.info-member,
+	.info-member a{
+		color: #F7941D;
+	}
+	.sb-slidebar{
+		display: none;
+	}
+	.mar-40{
+		margin-top: 40px;
+	}
+    .m-nav{
+        display: none;
+    }
+    /* .footer {
+        margin-top: 50px;
+    } */
+    .special-tour { clear:both; margin-top:20px}
+	.box-idea{
+		margin: 30px 0px 30px 0px;
+		padding: 15px 0;
+	}
+	.box-tour  > h2.title{
+		margin-bottom: 30px;
+		margin-top: 30px;
+	}
+   
+	.tour-location{
+		padding-top: 20px;
+	}
+	.box-title,
+	h2.title,
+	.content .box{
+		margin-left: 40px;
+		 margin-right: 40px;
+	}
+	.festival {
+	 margin:20px 0; 
+    }	
+	.d-clear{
+		clear: both;
+	}
+	.box-discovery{
+		margin: 45px 0 0;
+	padding-top: 30px;
+	}
+	.box-service  .content .tour { margin: 45px 0;}
+
+	.asean .tour {
+		margin-bottom:30px;
+		padding-left:10px; 
+		padding-right:10px;
+	}
+	.tour .tour-content { 
+		padding:15px 15px 25px;
+	}
+	.tour .price { 
+		font-size:22px; 
+		margin:12px 0;
+	}
+	.special-tour .tour { 
+		margin-bottom:20px; 
+		
+		float:left;
+	}
+	/*---------------------------- BODY --------------------------*/
+	#body .container { 
+		padding-left:0px !important; 
+		padding-right:0px !important;
+	}
+    /*box lich trinh*/
+    .box-program{
+        padding-bottom: 30px;
+    }
+    .date-program{
+        text-align: center;
+        margin-bottom: 35px;
+        overflow: hidden;
+    }
+    .date-program ul{
+    }
+
+    .date-program li.lage{
+        /*border: 1px solid #90BB38;*/
+        padding: 8px 68px 10px 68px;
+        text-transform: uppercase;
+        font-size: 13px;
+        color: #232323;
+        cursor: pointer;
+        background: rgba(255,255,255,0.6);
+        border-top: 2px solid #fff;
+    }
+    .date-program li.small{
+        /*border: 1px solid #90BB38;*/
+        padding: 10px 18px 12px 18px;
+        text-transform: uppercase;
+        font-size: 13px;
+        color: #232323;
+        cursor: pointer;
+        background: rgba(255,255,255,0.6);
+        border-top: 2px solid #fff;
+        margin-bottom: 12px;
+    }
+    .date-program .lage span{
+        display: block;
+    }
+    .date-program .lage .number{
+        font-size: 24px;
+    }
+
+
+    .date-program li:hover,
+    .date-program li.active{
+        background-color: #fff;
+        color: #21a117;
+        border-top: 2px solid #21a117;
+    }
+    .date-program li:hover .number,
+    .date-program li.active .number{
+        color: #21a117;
+    }
+    .g-program{
+        float: left;
+        margin-right: 12px;
+        margin-top: 15px;
+    }
+    .g-program ul {
+        margin: 0px;
+        padding: 0px;
+    }
+    .g-program li{
+        list-style: none;
+        margin-bottom: 20px;
+    }
+    .g-program .ic:hover,
+    .g-program .active .ic{
+        width: 156px;
+        transition: opacity 2s;
+        -webkit-transition: opacity 2s;
+    }
+    .g-program .ic{
+        /*border: 2px solid #B3B7AC;*/
+        width: 56px;
+        height: 56px;
+        padding-top: 15px;
+        display: block;
+        border-radius: 28px;
+        font-size: 15px;
+        overflow: hidden;
+        padding-left: 56px;
+        text-transform: uppercase;
+    }
+/*    .g-program .ic:hover,
+    .g-program .active .ic{
+        border: 2px solid #94CA8F;
+    }*/
+    .g-program  .ic-1{
+        background: url("../img/icon-travel2.png") no-repeat #D2E4B0;
+        background-position: 16px 15px;
+    }
+    .g-program .active .ic-1,
+    .g-program  .ic-1:hover{
+        background: url("../img/icon-travel2.png") no-repeat #fff;
+        background-position: -128px 15px;
+    }
+
+    .g-program  .ic-3{
+        background: url("../img/icon-travel2.png") no-repeat #D2E4B0;
+        background-position: 16px -106px;
+    }
+    .g-program .active .ic-3,
+    .g-program  .ic-3:hover{
+        background: url("../img/icon-travel2.png") no-repeat #fff;
+        background-position: -127px -106px;
+    }
+    .g-program  .ic-5{
+        background: url("../img/icon-travel2.png") no-repeat #D2E4B0;
+        background-position: 16px -232px;
+    }
+    .g-program .active .ic-5,
+    .g-program  .ic-5:hover{
+        background: url("../img/icon-travel2.png") no-repeat #fff;
+        background-position: -127px -232px;
+    }
+    .g-program .active .ic,
+    .g-program .ic:hover,
+    .g-program li .ic{
+        background-size: 170px auto;
+        cursor: pointer;
+    }
+
+    .box-program .content{
+        background-color: #fff;
+        padding: 20px 25px;
+        margin-left: 200px;
+        min-height: 380px;
+        position: relative;
+    }
+    .box-program .content .item{
+        border-bottom: 1px solid #eee;
+        margin-bottom: 12px;
+        padding-bottom: 12px;
+        overflow: hidden;
+    }
+    .box-program .content .item:last-child{
+        border-bottom: 0px;
+    }
+    .box-program .content .item .name{
+        color: #21a117;
+
+        font-weight: bold;
+
+    }
+    .box-program .content .item-food .txt-content{
+        clear: both;
+        display: block;
+        padding-top: 12px;
+    }
+    .box-program .content .item .list-food{
+        margin-bottom: 5px;
+    }
+    .box-program .content .item .list-food li{
+        border: 1px solid #EAD4F7;
+        background-color: #fafafa;
+        margin-left: 5px;
+        margin-right: 5px;
+        border-radius: 3px;
+        color: #9056B1;
+
+    }
+    .box-program .content .item img.img-position{
+        width: 180px;
+        height: 110px;
+        float: left;
+        margin-right: 15px;
+    }
+    .box-program .content .sub-drop{
+        position: absolute;
+
+        left: -17px;
+        display: block;
+        width: 17px;
+        height: 29px;
+        background: url("../img/icon-drop-travel.png") no-repeat;
+    }
+    .box-program .content-1 span.sub-drop{
+        top: 27px;
+    }
+    .box-program .content-2 span.sub-drop{
+        top: 103px;
+    }
+    .box-program .content-3 span.sub-drop{
+        top: 180px;
+    }
+    .box-program .content-4 span.sub-drop{
+        top: 240px;
+    }
+    .box-program .content-5 span.sub-drop{
+        top: 315px;
+    }
+    /*end css lich trinh*/
+}
+/* Fix height slider main */
+@media(max-width:360px){
+	#slide-main{
+		height: 145px;
+	}
+}
+@media(min-width: 361px) and (max-width: 480px){
+	#slide-main{
+		height: 180px;
+	}
+    .tour-content .intro{
+        max-height: 40px;
+        overflow: hidden;
+    }
+    .gift .tour .tour-content{
+        height: 160px;
+    }
+	.tour .tour-content{
+		height: 200px;
+	}
+    .tour img.img-responsive,
+	.list-item .column img.img-responsive{
+		height: 120px;
+	}
+	.tour-location .tour,
+    .list-item .tour,
+	.list-item .column,
+	.asean .tour,
+	.special-tour .tour { 
+		padding-left: 6px;
+		padding-right: 6px;
+		margin-bottom: 12px;
+	}
+}
+@media(max-width: 480px){
+	.tour-location .tour,
+    .list-item .tour,
+	.list-item .column,
+	.asean .tour,
+	.special-tour .tour { 
+		padding-left: 6px;
+		padding-right: 6px;
+		margin-bottom: 12px;
+	}
+}
+@media(min-width: 481px) and (max-width: 767px){
+	.tour-location .tour,
+    .list-item .tour,
+	.list-item .column,
+	.asean .tour,
+	.special-tour .tour { 
+		padding-left: 15px;
+		padding-right: 15px;
+		margin-bottom: 30px;
+	}
+	#slide-main{
+		height: 240px;
+	}
+    .gift .tour .tour-content{
+        height: 160px;
+    }
+	.tour .tour-content{
+		height: 200px;
+	}
+    .tour img.img-responsive,
+	.list-item .column img.img-responsive{
+		height: 165px;
+	}
+	.page-content{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+@media(min-width: 768px) and (max-width: 1024px){
+	.tour-location .tour,
+    .list-item .tour,
+	.list-item .column,
+	.asean .tour,
+	.special-tour .tour { 
+		padding-left: 12px;
+		padding-right: 12px;
+		margin-bottom: 24px;
+	}
+	.box-discovery{
+		padding-bottom: 30px;
+		padding-top: 20px;
+	}
+	.box-discovery .item{
+		margin-bottom: 20px;
+	
+	}
+	#slide-main{
+		height: 340px;
+	}
+    .navi-left a{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .navi-right a{
+        padding-left: 10px;
+    }
+	.list-item .column{
+		height: 190px;
+	} 
+	.where-go .form-control {
+		width: 260px !important;
+	}
+	.page-content{
+		margin-top: 45px;
+	}
+	.box-travel .his{margin-left: 15px}
+	.tour .intro{display: none;}
+	.special-tour .tour {
+		padding-left: 7px !important;
+		padding-right: 7px !important;
+	}
+    .tour img.img-responsive,
+	.list-item .column img.img-responsive{
+		height: 105px;
+	}
+}
+
+@media(min-width: 1025px){
+	.tour-location .tour,
+    .list-item .tour,
+	.list-item .column,
+	.asean .tour,
+	.special-tour .tour { 
+		padding-left: 15px;
+		padding-right: 15px;
+		margin-bottom: 30px;
+	}
+    .tour-content .intro{
+        max-height: 38px;
+        overflow: hidden;
+    }
+    .gift .tour .tour-content{
+        height: 160px;
+    }
+	.tour .tour-content{
+		height: 200px;
+	}
+    .tour img.img-responsive,
+	.list-item .column img.img-responsive{
+		height: 160px;
+	}
+	#slide-main{
+		height: 420px;
+	}
+    .navi-right a{
+        padding-left: 25px;
+    }
+    .navi-left a{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+	.list-item .column{
+		height: 240px;
+	}
+	.where-go .form-control {
+		width: 360px !important;
+	}
+	/* .special-tour .tour {
+		padding-left: 20px !important;
+		padding-right: 20px !important;
+	} */
+	 .d-menu .col-right{
+        padding-right: 30px;
+         height: 82px;
+    }
+}
+@media(min-width: 1200px){
+    #slide-main{
+        height: 480px;
+    }
+    .gift .tour .tour-content{
+        height: 160px;
+    }
+    .news .tour .tour-content{
+        height: 180px;
+    }
+	.tour .tour-content{
+		height: 200px;
+	}
+    .asean img.img-responsive{
+        max-height: 240px;
+    }
+	.wrapper .container{
+		width: 1120px;
+	}
+}

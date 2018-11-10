@@ -1,0 +1,65 @@
+/* here you can put your own css to customize and override the theme */
+.jssorb21 {
+	position: absolute;
+}
+.jssorb21 div, .jssorb21 div:hover, .jssorb21 .av {
+	position: absolute;
+	/* size of bullet elment */
+	width: 19px;
+	height: 19px;
+	text-align: center;
+	line-height: 19px;
+	color: white;
+	font-size: 12px;
+	background: url(../img/b21.png) no-repeat;
+	overflow: hidden;
+	cursor: pointer;
+}
+.jssorb21 div { background-position: -5px -5px; }
+.jssorb21 div:hover, .jssorb21 .av:hover { background-position: -35px -5px; }
+.jssorb21 .av { background-position: -65px -5px; }
+.jssorb21 .dn, .jssorb21 .dn:hover { background-position: -95px -5px; }
+
+.jssora21l, .jssora21r {
+	display: block;
+	position: absolute;
+	/* size of arrow element */
+	width: 55px;
+	height: 55px;
+	cursor: pointer;
+	background: url(../img/a21.png) center center no-repeat;
+	overflow: hidden;
+}
+.jssora21l { background-position: -3px -33px; }
+.jssora21r { background-position: -63px -33px; }
+.jssora21l:hover { background-position: -123px -33px; }
+.jssora21r:hover { background-position: -183px -33px; }
+.jssora21l.jssora21ldn { background-position: -243px -33px; }
+.jssora21r.jssora21rdn { background-position: -303px -33px; }
+
+#progress-wrapper {position: relative;height: 800px;}
+#progress-1 {top: 0px;left: 0px;}
+.progress-box {position: absolute;}
+.fluid-container {width: 100%;}
+.fluid-container:before, .fluid-container:after, ul.inline-list:before, ul.inline-list:after {content: " ";display: table;clear: both;}
+#progress-1 .pull-left {width: 170px;}
+.pull-left {float: left;}
+#progress-1 .pull-right {width: 270px;}
+.pull-right {float: right;}
+#progress-2 {top: 320px;left: 0px;}
+#progress-2 .pull-left { margin-left: 50px; width: 270px;margin-right: 20px;}
+#progress-3 {top: 0px;right: 0px;}
+#progress-3 .pull-left {width: 75px;margin-right: 20px;}
+#progress-3 .pull-right {width: 270px;}
+#progress-4 {top: 320px;right: 0px;}
+#progress-4 .pull-left {width: 270px;margin-right: 20px;}
+#progress-5 {top: 620px;left: 0px;}
+#progress-5 .pull-left {margin-left: 50px;}
+#progress-5 .pull-right {width: 270px;margin-left: 20px;}
+.arrow-1 {width: 98px;top: 150px;left: 100px;}
+.progress-arrow {display: block;position: absolute;height: 160px;background-image: url('../img/progress.png');background-repeat: no-repeat;}
+.arrow-2 {background-position: -98px;width: 162px;top: 150px;left: 515px;}
+.arrow-3 {background-position: -260px;width: 142px;top: 150px;left: 900px;}
+.arrow-4 {background-position: -403px;width: 162px;top: 460px;right: 60px;}
+.fluid-container h3{margin-bottom: 5px;font-weight: 400;font-size: 22px;line-height: 1.5em;}
+.fix_top{position: fixed;top: 0;bottom: auto;}

@@ -1,0 +1,6 @@
+[20-Apr-2016 22:02:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(../libs/cls.post.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/admincp/ajaxs/load_post.php on line 6
+[20-Apr-2016 22:02:34 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening '../libs/cls.post.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/admincp/ajaxs/load_post.php on line 6
+[20-Apr-2016 22:02:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/ajaxs/load_post.php on line 9
+[20-Apr-2016 22:03:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(../libs/cls.post.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/admincp/ajaxs/load_post.php on line 6
+[20-Apr-2016 22:03:04 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening '../libs/cls.post.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/admincp/ajaxs/load_post.php on line 6
+[20-Apr-2016 22:03:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/ajaxs/load_post.php on line 9
